@@ -1,30 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\",
+  "WorkspaceRootPath": "C:\\Users\\fabio\\Escritorio\\Fidelitas\\Programacion Avanzada C##\\Practica4\\PracticaProgramada4_Grupo4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|c:\\users\\lopez\\desktop\\prograavanzada\\practica#4\\practicaprogramada4_grupo4\\practicaprogramada4\\controllers\\frontendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|solutionrelative:practicaprogramada4\\controllers\\frontendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|c:\\users\\lopez\\desktop\\prograavanzada\\practica#4\\practicaprogramada4_grupo4\\practicaprogramada4\\views\\frontend\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|solutionrelative:practicaprogramada4\\views\\frontend\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|c:\\users\\lopez\\desktop\\prograavanzada\\practica#4\\practicaprogramada4_grupo4\\practicaprogramada4\\scripts\\frontend.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|solutionrelative:practicaprogramada4\\scripts\\frontend.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|c:\\users\\lopez\\desktop\\prograavanzada\\practica#4\\practicaprogramada4_grupo4\\practicaprogramada4\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|solutionrelative:practicaprogramada4\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|c:\\users\\lopez\\desktop\\prograavanzada\\practica#4\\practicaprogramada4_grupo4\\practicaprogramada4\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|solutionrelative:practicaprogramada4\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|c:\\users\\lopez\\desktop\\prograavanzada\\practica#4\\practicaprogramada4_grupo4\\practicaprogramada4\\controllers\\contenidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|c:\\users\\fabio\\escritorio\\fidelitas\\programacion avanzada c##\\practica4\\practicaprogramada4_grupo4\\practicaprogramada4\\controllers\\contenidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|solutionrelative:practicaprogramada4\\controllers\\contenidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|c:\\users\\fabio\\escritorio\\fidelitas\\programacion avanzada c##\\practica4\\practicaprogramada4_grupo4\\practicaprogramada4\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBCCA51-621A-4096-B57A-97EFD1D972DC}|PracticaProgramada4\\PracticaProgramada4.csproj|solutionrelative:practicaprogramada4\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,48 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 60,
+          "SelectedChildIndex": 62,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5c82a791-7c9f-441e-952b-8848655dd85e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
@@ -139,6 +83,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -258,7 +206,15 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
@@ -269,81 +225,73 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "PracticaProgramada4\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "PracticaProgramada4\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T03:02:09.434Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frontend.js",
-              "DocumentMoniker": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\Scripts\\frontend.js",
-              "RelativeDocumentMoniker": "PracticaProgramada4\\Scripts\\frontend.js",
-              "ToolTip": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\Scripts\\frontend.js",
-              "RelativeToolTip": "PracticaProgramada4\\Scripts\\frontend.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-06T02:46:16.02Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5c82a791-7c9f-441e-952b-8848655dd85e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrontendController.cs",
-              "DocumentMoniker": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\Controllers\\FrontendController.cs",
-              "RelativeDocumentMoniker": "PracticaProgramada4\\Controllers\\FrontendController.cs",
-              "ToolTip": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\Controllers\\FrontendController.cs",
-              "RelativeToolTip": "PracticaProgramada4\\Controllers\\FrontendController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ContenidoController.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Escritorio\\Fidelitas\\Programacion Avanzada C##\\Practica4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\Controllers\\ContenidoController.cs",
+              "RelativeDocumentMoniker": "PracticaProgramada4\\Controllers\\ContenidoController.cs",
+              "ToolTip": "C:\\Users\\fabio\\Escritorio\\Fidelitas\\Programacion Avanzada C##\\Practica4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\Controllers\\ContenidoController.cs",
+              "RelativeToolTip": "PracticaProgramada4\\Controllers\\ContenidoController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwHEAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T02:29:09.001Z",
+              "WhenOpened": "2025-08-07T03:03:07.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\Views\\Frontend\\Index.cshtml",
-              "RelativeDocumentMoniker": "PracticaProgramada4\\Views\\Frontend\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\Views\\Frontend\\Index.cshtml",
-              "RelativeToolTip": "PracticaProgramada4\\Views\\Frontend\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-06T02:17:24.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "PracticaProgramada4\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "PracticaProgramada4\\Controllers\\ValuesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Escritorio\\Fidelitas\\Programacion Avanzada C##\\Practica4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "PracticaProgramada4\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\fabio\\Escritorio\\Fidelitas\\Programacion Avanzada C##\\Practica4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "PracticaProgramada4\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T01:59:24.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ContenidoController.cs",
-              "DocumentMoniker": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\Controllers\\ContenidoController.cs",
-              "RelativeDocumentMoniker": "PracticaProgramada4\\Controllers\\ContenidoController.cs",
-              "ToolTip": "C:\\Users\\lopez\\Desktop\\PrograAvanzada\\Practica#4\\PracticaProgramada4_Grupo4\\PracticaProgramada4\\Controllers\\ContenidoController.cs",
-              "RelativeToolTip": "PracticaProgramada4\\Controllers\\ContenidoController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T21:03:07.033Z",
+              "WhenOpened": "2025-08-07T03:01:51.332Z",
               "EditorCaption": ""
             }
           ]
@@ -352,6 +300,10 @@
           "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
@@ -383,10 +335,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

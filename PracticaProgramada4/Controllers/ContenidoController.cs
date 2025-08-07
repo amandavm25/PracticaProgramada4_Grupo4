@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Ajax.Utilities;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Numerics;
@@ -67,7 +68,7 @@ namespace PracticaProgramada4.Controllers
         {
             var random = new Random();
             int index = random.Next(adivinanzas.Count);
-            ultimaAdivinanza = adivinanzas[index]; 
+            ultimaAdivinanza = adivinanzas[index];
             return Ok(new { adivinanza = ultimaAdivinanza.Pregunta });
         }
 
@@ -80,8 +81,8 @@ namespace PracticaProgramada4.Controllers
                 return BadRequest("Primero debes pedir una adivinanza.");
             }
 
-            string correcta = ultimaAdivinanza.Respuesta.ToLower();
-            string enviada = respuesta?.respuesta?.Trim().ToLower();
+            string correcta = normalizarRespuesta(ultimaAdivinanza.Respuesta);
+            string enviada = normalizarRespuesta(respuesta?.respuesta);
 
             if (enviada == correcta)
             {
@@ -103,6 +104,26 @@ namespace PracticaProgramada4.Controllers
         {
             public string Pregunta { get; set; }
             public string Respuesta { get; set; }
+        }
+
+        public string normalizarRespuesta(string respuesta)
+        {
+            if (string.IsNullOrWhiteSpace(respuesta)) return string.Empty;
+
+            
+            var normalizada = respuesta.Normalize(System.Text.NormalizationForm.FormD);
+            var chars = normalizada.ToCharArray();
+            var resultado = new System.Text.StringBuilder();
+
+            foreach (char c in chars)
+            {
+                if (System.Globalization.CharUnicodeInfo.GetUnicodeCategory(c) != System.Globalization.UnicodeCategory.NonSpacingMark)
+                {
+                    resultado.Append(c);
+                }
+            }
+
+            return resultado.ToString().Normalize(System.Text.NormalizationForm.FormC).ToLower();
         }
     }
 }
